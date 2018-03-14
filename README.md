@@ -22,7 +22,7 @@ e.g
 Visit site via the url http://localhost:8000
 
 ### Default login
-Email: admin@admin.com
-password: admin
+* Email: admin@admin.com
+* password: admin
 
 The login credentials can be changed after login 
